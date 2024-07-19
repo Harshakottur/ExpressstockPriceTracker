@@ -20,7 +20,7 @@ This project is an Express.js application that polls real-time data for 5 stocks
 1. Clone the repository:
     ```sh
     git clone https://github.com/HarshaKottur/ExpressstockPriceTracker.git
-    cd expressstockpricetracker
+    cd ExpressstockPriceTracker
     ```
 
 2. Install dependencies:
